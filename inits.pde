@@ -20,8 +20,6 @@ long esperaNegra;
 OscP5 oscP5;
 
 NetAddress viZwords;
-//int temp = 1;
-// parts of the text
 String P00 = ("../0textos/P00_2.txt"); // presentacion
 String M00 = ("../0textos/intruso.txt"); //P
 String M01 = ("../0textos/cabana.txt");//P
@@ -51,27 +49,14 @@ String M52 = ("../0textos/Brave New World - Aldous Huxley.txt");
 String M53 = ("../0textos/Antonio-Damasio-Estranha.txt");
 String M54 = ("../0textos/Huxley-admiravel.txt");
 String M55 = ("../0textos/huxley-unMundoFelizSoma.txt");//
-//String M1a1 = ("../0textos/M1a1.txt");//espiritu errante
 String M1a2 = ("../0textos/M1a2.txt");//
 String M1a11 = ("../0textos/[M1a,1].txt");//Mil mesetas
-//String M1a12 = ("../0textos/[M1a,2].txt");//3.  EL CURRÍCULUM DE LA NO VIOLENCIA
 String M1a3 = ("../0textos/[M1a,3].txt");// constru cuerpos pabon
 String M1a4 = ("../0textos/M19.txt");//mombaca
-//String M21 = ("../0textos/[M2,1].txt"); // Eichmann en jerusalem
 String M22a = ("../0textos/[M2,2].txt");//EL AULA SIN MUROS
-//String M23 = ("../0textos/[M2,3].txt"); //maquinas met Pati
-//String M24 = ("../0textos/[M2,4].txt");//LA LECCIÖN DE AUSCHWITZ
 String M251 = ("../0textos/[M2,5].txt");//autoridad
 String M261 = ("../0textos/[M2,6].txt");//todo lo solido
-//String M27 = ("../0textos/[M2,7].txt"); //enfrentar un monstruo
-//String M28 = ("../0textos/[M2,8].txt");//compendio politicas
-//String M29 = ("../0textos/[M2,9].txt");//Introducción a Rayuela
-//String M210 = ("../0textos/[M2,10].txt"); //libro de manuel
 String M210a = ("../0textos/[M2,10a].txt");//rAYU
-//String M211 = ("../0textos/[M2,11].txt");//62 modelo
-//String M212 = ("../0textos/[M2,12].txt");
-//String M213 = ("../0textos/[M2,13].txt");//anticristo
-//String M214 = ("../0textos/[M2,14].txt");//zaratustra
 String M214a = ("../0textos/[M2,14a].txt");
 String M2a1 = ("../0textos/[M2a,1].txt");
 String M2a2 = ("../0textos/[M2a,2].txt");
@@ -113,6 +98,7 @@ String M6a13 = ("../0textos/M6a13.txt");
 String DORIAN = ("../0textos/DORIAN.txt");
 String ALmAR = ("../0textos/ALMAR.txt");
 String suz = ("../0textos/Suz_computacional.txt");
+
 float Coun;
 float preCoun;
 String[] lines;
